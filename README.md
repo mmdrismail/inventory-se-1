@@ -409,3 +409,4 @@ Because all frontend UI components already `await` service promises, **no page o
 - **Year / Semester:** 2026
 
 *Academic Notice: This software is developed for educational purposes to demonstrate software engineering best practices including component modularity, state synchronization, role-based access control, responsive design, and robust data flow architecture.*
+# inventory-se
